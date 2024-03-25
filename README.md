@@ -1,5 +1,5 @@
 # Music_Display
-Este projeto oferece um display de música interativo, similar ao Spotify, exibindo detalhes das músicas de forma intuitiva. Visualmente atraente e compatível com diversas plataformas, permite personalização conforme preferências do usuário.
+Este projeto oferece um display de música interativo que proporciona uma experiência semelhante ao Spotify. Combinando funcionalidade e estética, o display exibe detalhes abrangentes das músicas, como título, artista e capa do álbum, de forma intuitiva e dinâmica. Ele é projetado para ser visualmente atraente e compatível com várias plataformas, permitindo personalização conforme as preferências do usuário. 
 
 ## 🛠 linguagens Utilizadas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
